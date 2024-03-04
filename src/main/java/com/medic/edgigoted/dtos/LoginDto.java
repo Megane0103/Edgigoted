@@ -1,4 +1,4 @@
-package com.medic.edgigoted.daos;
+package com.medic.edgigoted.dtos;
 
 public class LoginDto {
     private String username;

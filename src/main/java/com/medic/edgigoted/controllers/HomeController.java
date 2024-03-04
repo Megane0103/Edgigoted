@@ -1,6 +1,6 @@
 package com.medic.edgigoted.controllers;
 
-import com.medic.edgigoted.daos.LoginDto;
+import com.medic.edgigoted.dtos.LoginDto;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
